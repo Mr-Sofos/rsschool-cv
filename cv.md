@@ -61,7 +61,7 @@ export const classNames = (
 - Result Shcool: Frontend Development
 
 ## English
-A2 Elementary
+- A2 Elementary
 
 
 
